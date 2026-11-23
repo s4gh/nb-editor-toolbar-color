@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: io/github/s4gh/editortoolbarcolor/Bundle.properties
+OpenIDE-Module-Install: io/github/s4gh/editortoolbarcolor/Installer.class
